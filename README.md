@@ -1,4 +1,4 @@
-## Analyzing New York City High School Data (Test Project)
+## Analyzing New York City High School Data
 
 The SAT, or Scholastic Aptitude Test, is an exam that U.S. high school students take before applying to college. Colleges take the test scores into account when deciding who to admit, so it's fairly important to perform well on it.
 
